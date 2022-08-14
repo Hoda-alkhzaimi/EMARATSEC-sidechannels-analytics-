@@ -1,7 +1,11 @@
 This document illustrates the structure of the project and how the code will be run efficiently.
+It is worthy to state that the codes implemented in this project were inspired by:
+https://github.com/ANSSI-FR/ASCAD - Ryad Benadjila et al.
+https://github.com/AISyLab/EnsembleSCA - Guilherme Perin et al.
+
 First, the project used three main datasets in hdf5 format which are listed as follows together with the file names:
-1. ASCAD: ASCAD.h5
-2. CHES CTF: ches_ctf.h5
+1. ASCAD: ASCAD.h5 (also found in link provided above - ASCAD)
+2. CHES CTF: ches_ctf.h5 (also found in link provided above - EnsembleSCA)
 3. speck 32: speck32.h5
 
 The project consists of 5 main files as contained below and the function of each file will be explained as follows:

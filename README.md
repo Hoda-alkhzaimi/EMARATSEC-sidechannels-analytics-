@@ -46,4 +46,4 @@ perceptron or convnets. Running the model thus involves setting the following in
 11. Testing noise infusion: include gaussian noise in the models in (3)
 
 Running the model: Run a model from 5 to 10 and this should take between 30 minutes to 2 hours. The result contains plot
-ranking the secret key - guessing entropy and success rate. Achieving a GE of close to 0 is a successful attack.
+ranking the secret key - guessing entropy and success rate. Achieving a GE of close to 1 is a successful attack.
